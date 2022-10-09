@@ -1,0 +1,25 @@
+// theme colors
+$primary: #326dee !default;
+$secondary: #1ac886 !default;
+$error: #d32752 !default;
+$info: #f6c31c !default;
+
+// spacing
+$base-padding: 0.75rem;
+$base-margin: 0.75rem;
+
+// borders
+$base-border-thickness: 1px;
+$base-border-radius: 20px;
+
+//box-shadow
+$base-box-shadow: 0px 0px 3px 4px rgba(128, 128, 128, 0.099);
+
+//font
+$base-font-size: 1rem;
+$base-font-size-xs: $base-font-size - 0.5rem;
+$base-font-size-sm: $base-font-size - 0.25rem;
+$base-font-size-md: $base-font-size;
+$base-font-size-lg: $base-font-size - 1.25rem;
+$base-font-size-xl: $base-font-size - 1.5rem;
+$base-font-size-xxl: $base-font-size - 1.75rem;
