@@ -3,10 +3,11 @@
 .card {
   display: block;
   padding: $base-padding;
-  border: $base-border-thickness solid #ddd;
+  border: $base-border-thickness solid map-get($colors, "gray");
   box-shadow: $base-box-shadow;
   margin: $base-margin;
-  max-width: math.div(400px, 1);
+  max-width: 400px;
+  border-radius: math.div($base-border-radius, 4);
   .card-title {
     font-size: $base-font-size-md;
     padding: $base-padding;
