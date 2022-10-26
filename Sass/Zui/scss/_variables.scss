@@ -33,9 +33,9 @@ $base-box-shadow: 0px 0px 3px 4px rgba(128, 128, 128, 0.099);
 
 //font
 $base-font-size: 1rem;
-$base-font-size-xs: $base-font-size - 0.5rem;
-$base-font-size-sm: $base-font-size - 0.25rem;
-$base-font-size-md: $base-font-size;
-$base-font-size-lg: $base-font-size - 1.25rem;
-$base-font-size-xl: $base-font-size - 1.5rem;
-$base-font-size-xxl: $base-font-size - 1.75rem;
+$font-size-xs: $base-font-size - 0.5rem;
+$font-size-sm: $base-font-size - 0.25rem;
+$font-size-md: $base-font-size;
+$font-size-lg: $base-font-size - 1.25rem;
+$font-size-xl: $base-font-size - 1.5rem;
+$font-size-xxl: $base-font-size - 1.75rem;

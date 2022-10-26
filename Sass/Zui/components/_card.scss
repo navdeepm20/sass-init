@@ -9,13 +9,13 @@
   max-width: 400px;
   border-radius: math.div($base-border-radius, 4);
   .card-title {
-    font-size: $base-font-size-md;
+    font-size: $font-size-md;
     padding: $base-padding;
     // margin: $base-margin;
     font-weight: bold;
   }
   .card-body {
-    font-size: $base-font-size;
+    font-size: $font-size-sm;
     padding: $base-padding;
     a {
       text-decoration: none;
