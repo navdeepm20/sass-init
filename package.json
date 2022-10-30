@@ -11,5 +11,8 @@
     "gulp-concat": "^2.6.1",
     "gulp-sass": "^5.1.0",
     "sass": "^1.55.0"
+  },
+  "devDependencies": {
+    "gulp-purgecss": "^5.0.0"
   }
 }
